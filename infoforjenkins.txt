@@ -1,0 +1,2 @@
+As you can see in the screenshots, although the console output states failure, the test was run successfully,
+it states failure due to the junit in my post build actions as I did not have much time left to configure that.

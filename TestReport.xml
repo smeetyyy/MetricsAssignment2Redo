@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="113.108" timestamp="2022-09-01T15:16:52.272492" hostname="LAPTOP-NC2JPMJ1"><testcase classname="Users.stefa.Desktop.Metrics2.test_assignment.Tester" name="test_er" time="94.926" /></testsuite></testsuites>
